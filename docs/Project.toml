@@ -1,0 +1,3 @@
+[deps]
+MyPkg27 = "74e88551-8ffa-4362-bd89-9bd911b88da4"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
